@@ -1,4 +1,4 @@
-####Free resources to learn
+#### Free resources to learn
 
 These resources are loosely ordered by how well-suited they are for developers who have never studied a statically-typed language like Java, C, etc.  
 
@@ -17,23 +17,23 @@ These resources are loosely ordered by how well-suited they are for developers w
 - [Kojo](http://www.kogics.net/sf:kojo)
 - [Lightbend's Scala 101](https://bigdatauniversity.com/courses/introduction-to-scala/)
 
-####Paid resources to learn
+#### Paid resources to learn
 
 - [Scala Cookbook](http://shop.oreilly.com/product/0636920026914.do)
 
-####Tool-specific resources
+#### Tool-specific resources
 
 - Maven intro (coming soon)
 - SBT intro (coming soon)
 - [ScalaTest User Guide](http://www.scalatest.org/user_guide)
 - [Hands-on Scala.js](http://www.lihaoyi.com/hands-on-scala-js/)
 
-####Resources to practice
+#### Resources to practice
 
 - [Scala Exercises](https://www.scala-exercises.org/)
 - [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 
-####Resources the experts love
+#### Resources the experts love
 
 - [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
 - [Programming Scala, 2nd Edition](http://shop.oreilly.com/product/0636920033073.do)

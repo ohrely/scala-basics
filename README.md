@@ -1,4 +1,4 @@
-#Scala for Dynamic Programmers
+# Scala for Dynamic Programmers
 
 A collection of Scala learning tools that don't assume you know Java.
 
