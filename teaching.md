@@ -127,4 +127,4 @@ I have found that the following don't make good first projects:
 - Recursion
 - Compiler intricacies
 
-You may feel that some of these are so fundamental to Scala that they should be introduced early.  I suggest instead introducing them as they come up naturally in your code reviews.  For example, case classes aren't going to be particularly meaningful until you show your learner how they can replace the (String, Option(Int), Array[(String, List[(String, Double)])]) that they just put into their code.
+You may feel that some of these are so fundamental to Scala that they should be introduced early.  I suggest instead introducing them as they come up naturally in your code reviews.  For example, case classes aren't going to be particularly meaningful until you show your learner how they can replace the (String, Option[Int], Array[(String, List[(String, Double)])]) that they just put into their code.
