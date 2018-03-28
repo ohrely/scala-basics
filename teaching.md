@@ -1,6 +1,6 @@
 # Teaching Scala to the Statically Challenged
 
-This page grew out of the outline of the "Teaching Scala to the Statically Challenged" talk that @ohrely gave at Scale by the Bay 2017 [which can be viewed here](https://www.youtube.com/watch?v=d1nlgM54IB8).
+This page grew out of the outline of Ely's "Teaching Scala to the Statically Challenged" talk at Scale by the Bay 2017 [which can be viewed here](https://www.youtube.com/watch?v=d1nlgM54IB8).
 
 ### Index
 
