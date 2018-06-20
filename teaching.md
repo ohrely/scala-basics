@@ -9,6 +9,7 @@
 5. General advice
 6. Topics to introduce right away
 7. Topics to postpone
+8. Further reading
 
 ---
 
@@ -72,7 +73,9 @@ I have found that the following don't make good first projects:
     - Don't waste your time on approaches that are less effective for their preferred learning style.
 - Encourage questions
     - Remind yourself that basic != bad.  Be glad that they're coming to you for foundational concepts.
-- Check in mid-lecture
+    - Expect repetitive questions.  Learning requires repetition.
+    - Let them know how you like to be bothered - emails? sticky notes? check ins every two hours?
+- Dialogue, don't monologue
     - Don't waste time; ask to make sure that they don't already know the concept you're about to teach.
         - Maybe they know it by a different name.
     - Make it clear that you want to know if something is unclear.
@@ -81,6 +84,8 @@ I have found that the following don't make good first projects:
     - If they got the job, they know how to find resources.  How much faster can you find them?
     - Prevent journeys into rabbit holes by pulling up the docs for them.
 - Set project timelines
+    - Use your experience to set their expectations.
+    - Makes you think harder about the appropriateness of the work being assigned.
     - Reevaluate as needed.
 - Model good code
     - Write clean code.  Be explicit about types when they might not be clear.  Write tests and readmes and samples.  All the things you should be doing anyway. 
@@ -95,7 +100,10 @@ I have found that the following don't make good first projects:
     - Don't do this with any online resource.  It doesn't feel good, and you're wasting their time.
     - Feel free to suggest the Coursera course as a supplementary resource.
 - Never say the word "just"
-    - What feels obvious to you may not be to them - be careful about how your tone and word choice affect their understanding of your expectations.
+    - What feels obvious to you may not be to them - be careful about how your tone and word choice affect their understanding of your expectations.    
+- Don't make predictions about difficulty
+    - [Saying "this will hurt" will make it worse](https://www.scientificamerican.com/podcast/episode/saying-this-may-hurt-may-make-it-worse/).
+    - Your learner will probably struggle with a different set of concepts than you did when you were learning.
 - Don't mistake inexperience for incompetence
 - Don't mistake vocabulary ignorance for conceptual ignorance
 
@@ -110,16 +118,20 @@ I have found that the following don't make good first projects:
     - Just one build tool
     - Just one test library
 - FP basics
+    - what is a side effect
     - val not var
+    - for not while
 - Object / Class / Trait / Method / Type
 - Compiler basics
+    - What is a compiler?
 - Options
 
 ---
 
-### 7. Topics to postpone
+### 7. Wait for a need
 
-- Monads
+- FP vocab
+    - You can use flatmap correctly without knowing the definition of a monad.
 - Implicits
 - Currying
 - Anonymous functions
@@ -127,4 +139,10 @@ I have found that the following don't make good first projects:
 - Recursion
 - Compiler intricacies
 
-You may feel that some of these are so fundamental to Scala that they should be introduced early.  I suggest instead introducing them as they come up naturally in your code reviews.  For example, case classes aren't going to be particularly meaningful until you show your learner how they can replace the (String, Option(Int), Array[(String, List[(String, Double)])]) that they just put into their code.
+You may feel that some of these are so fundamental to Scala that they should be introduced early.  I suggest instead introducing them as they come up naturally in your code reviews.  For example, case classes aren't going to be particularly meaningful until you show your learner how they can replace the (String, Option[Int], Array[(String, List[(String, Double)])]) that they just put into their code.
+
+---
+
+### 8. Further reading
+
+- [A comprehensive resource on teaching technical topics](https://carpentries.github.io/instructor-training/)

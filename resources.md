@@ -8,7 +8,6 @@ These resources are loosely ordered by how well-suited they are for developers w
     - Read through this, skimming over the parts that don't make sense to you yet.  Just get a sense of what the language looks like and make note of some of the basic building blocks.
 - [Scala Tutorials](http://scalatutorials.com/tour/)
 - [Python to Scala](https://www.gitbook.com/book/wrobstory/python-to-scala/details)
-- [Twitter's Scala School](https://twitter.github.io/scala_school/index.html)
 - [Noel Welsh - Essential Scala: Six Core Principles for Learning Scala](https://www.youtube.com/watch?v=J8wUy1XxL5o)
 - [Tour of Scala](http://docs.scala-lang.org/tutorials/tour/tour-of-scala.html)
 - [Scala Style Guide](https://www.coursera.org/learn/progfun1/supplement/KPiGt/scala-style-guide)
@@ -16,17 +15,25 @@ These resources are loosely ordered by how well-suited they are for developers w
 - [Functional Programming in Scala](https://www.coursera.org/learn/progfun1)
 - [Kojo](http://www.kogics.net/sf:kojo)
 - [Lightbend's Scala 101](https://bigdatauniversity.com/courses/introduction-to-scala/)
+- [Scala Quest](http://scalaquest.com/)
 
 #### Paid resources to learn
 
+- [Introduction to the Art of Programming Using Scala](http://www.programmingusingscala.net/home)
 - [Scala Cookbook](http://shop.oreilly.com/product/0636920026914.do)
 
 #### Tool-specific resources
 
-- Maven intro (coming soon)
 - SBT intro (coming soon)
+- Maven intro (coming soon)
 - [ScalaTest User Guide](http://www.scalatest.org/user_guide)
 - [Hands-on Scala.js](http://www.lihaoyi.com/hands-on-scala-js/)
+
+#### Setting up your environment
+
+- [Scastie interactive playground](https://scastie.scala-lang.org/_)
+- [Scala Fiddle](https://scalafiddle.io/)
+- [Scala Bridge Setup](https://scalabridge.gitbooks.io/curriculum/content/setup/setup.html)
 
 #### Resources to practice
 
