@@ -1,4 +1,6 @@
-#Teaching Scala to the Statically Challenged
+# Teaching Scala to the Statically Challenged
+
+This page grew out of the outline of Ely's "Teaching Scala to the Statically Challenged" talk at Scale by the Bay 2017 [which can be viewed here](https://www.youtube.com/watch?v=d1nlgM54IB8).
 
 ### Index
 
@@ -67,7 +69,7 @@ I have found that the following don't make good first projects:
 
 ### 5. General advice
 
-####Dos:
+#### Dos:
 
 - Ask how they like to learn
     - Don't waste your time on approaches that are less effective for their preferred learning style.
@@ -94,7 +96,7 @@ I have found that the following don't make good first projects:
     - Speed their learning.
     - Convince them you have friends.
     
-####Don'ts:
+#### Don'ts:
 
 - Don't say "Martin Odersky has a course on Coursera" and disappear for two weeks
     - Don't do this with any online resource.  It doesn't feel good, and you're wasting their time.
